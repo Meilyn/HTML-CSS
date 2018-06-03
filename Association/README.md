@@ -7,9 +7,9 @@ Réaliser un minisite d'une page (= un one-pager) présentant une association ca
 
 ## PROJET
 
-**Mi Planeta y Yo** (littéralement « Ma planete et moi ») est une projet personel que j'ai fait avec l'objective d'ameliorer l'ancienne page web que j'avais mit en place pour testet mes nouveaux super pouvoirs. 
+**Mi Planeta y Yo** (littéralement « Ma planete et moi ») est un project personel que j'ai fait avec pour objectif d'ameliorer l'ancienne page web que j'avais mit en place.Voici le resultat de mon _challenge_ pour tester mes nouveaux super pouvoirs.
 
-La page est simple est met en evidence mes idées concernant notre planete.
+La page est simple et met en evidence mes idées concernant notre planète.
 
 ## OBJECTIVES
 1. Tester mes progrès
