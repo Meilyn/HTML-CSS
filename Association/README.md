@@ -15,7 +15,8 @@ La page est simple est met en evidence mes idées concernant notre planete.
 1. Tester mes progrès
 2. M'entraîner à avoir une meilleur maîtrise de CSS/HTML.
 
-## Maquetage
+## RESULTAT
+![Marquetage](img/resultat.png)
 
 
 
