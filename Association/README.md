@@ -14,6 +14,9 @@ La page est simple est met en evidence mes idées concernant notre planete.
 ## OBJECTIVES
 1. Tester mes progrès
 2. M'entraîner à avoir une meilleur maîtrise de CSS/HTML.
+3. Comprendre le prototypage et faire un premier prototype 
+4. Créer un site fictif d'une page
+5. Utiliser Git comme filet durant le développement
 
 ## RESULTAT
 ![Marquetage](img/resultat.png)
