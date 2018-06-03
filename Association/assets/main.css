@@ -1,0 +1,147 @@
+body {
+	margin: auto;
+	padding: auto;
+	background-color: #fff;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+nav {
+	display: flex;
+	margin-top: auto;
+	background-color: #000;
+	color: white;
+}
+li {
+	display: inline-block;
+	padding: 10px 10px;
+	text-transform: uppercase;
+	justify-content: right;
+}
+
+span {
+	color: #00c0e9;
+}
+.banner {
+	background-image: url(../img/bg.jpg);
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	height: 500px;
+	align-items: center;
+	justify-content: center;
+	background-size: cover;
+}
+.title {
+	color: white;
+	font-weight: 700;
+	text-align: center;
+
+}
+.bouton {
+	background-color: transparent;
+	border: 1px solid white;
+	padding: 15px 15px;
+	border-radius: 50px;
+	
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.bouton:hover{
+	background-color: #001e3f;
+	border: 1px solid white;
+
+}
+.ctn-ap{
+	background-color: #fff;
+	width: 100%;
+	display: flex;
+	height: 300px;
+}
+
+.apropos {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 60px;
+
+}
+.apropos h1 {
+	text-align: center;
+}
+
+.quote {
+	background-color: #001e3f;
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	padding: 20px 20px;
+	text-decoration: none;
+}
+
+a.quote {
+	color: #ffb503;
+
+}
+
+.Campaigns {
+	margin-top: 30px;
+	justify-content: center;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+}
+
+.Campaigns p {
+	text-align: justify;
+}
+.Campaigns h4 {
+	text-transform: uppercase;
+}
+
+.flex-container {
+	width: 350px;
+	min-height: 260px;
+	padding: 10px;
+	margin:10px;
+	align-items: center;
+}
+
+.bouton2 {
+	margin: 20px;
+	background-color: #001e3f;
+	border: 1px solid white;
+	padding: 15px 15px;
+	
+}
+.bouton2:hover{
+	
+	background-color: #001e3f;
+	border: 1px solid white;
+
+}
+
+.pala {
+	text-align: center;
+}
+.icons {
+	color: white;
+	font-size: 2em;
+	margin: 5px 55px;
+}
+footer {
+	margin-top: 30px;
+	background-color: black;
+	color: #00c0e9;
+	text-align: center;
+	padding: 20px 20px;
+}

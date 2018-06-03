@@ -1,0 +1,131 @@
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+	color: white;
+	line-height: 1.5;
+	font-style: normal;
+}
+
+/* unvisited link */
+a:link {
+	color: hotpink;
+}
+/* visited link */
+a:visited {
+	color: tomato;
+}
+a:hover {
+	color: violet;
+}
+
+body {
+	max-width: 90%;
+	margin: 0 auto;
+	background-color: azure;
+	background: linear-gradient(#cbdbe9, #5d86b0);
+	background-image: url("img/bg.jpg");
+	background-position: bottom right;
+	background-repeat: no-repeat;
+	background-size: cover;
+}	
+q {
+	width: 50%;
+	margin: 0% 25%;
+	padding: 80px 30px;
+	display: inline-block;
+	font-size: 160%;
+	background-color: Gainsboro;
+	border-left: 3px solid firebrick;
+	font-family: 'Kavivanar', cursive;
+
+}
+
+li {
+	color: white;
+	list-style-type: none;
+}
+
+figure {
+	color: white;
+}
+
+figcaption {
+	color: white;
+}
+
+table {
+	color: white;
+	padding-right: 5px;
+
+}
+
+th, td, tr {
+	padding: 5px;
+	margin: auto;
+}
+
+h3 {
+	color: white;
+	font-family: 'Kavivanar', cursive;
+}
+
+.villageois {
+	border-left: 4px solid GreenYellow;
+	padding-left: 30px;
+}
+
+.fermier {
+	border-left: 4px solid Gold;
+	padding-left: 30px;
+}
+header {
+	background-color: yellow;
+}
+
+.bien {
+	text-transform: uppercase;
+	color: green;
+}
+.mal {
+	text-transform: uppercase;
+	color: red;
+}
+
+.linea1 {
+	background-color: grey;
+}
+.linea2 {
+	background-color: DarkSlateGrey;
+}
+
+th {
+	background-color: DarkTurquoise;
+}
+
+#puceb {
+	background-image: url("img/bien.png");
+	padding-right: 2px;
+	background-repeat: no-repeat;
+	background-position: 28%;
+	background-size: 19px;
+}
+
+#pucem {
+	background-image: url("img/mal.png");
+	padding-right: 2px;
+	background-repeat: no-repeat;
+	background-size: 19px;
+	background-position: 28%;
+}
+
+#chat {
+	background-image: url("img/chat.png");
+	background-repeat: no-repeat;
+	background-position: 31%;
+	background-size: 20px;
+}
+
+img {
+	float: left;
+	padding:10px;
+}

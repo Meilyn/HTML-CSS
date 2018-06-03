@@ -1,0 +1,142 @@
+body {
+	/*background-color: black;*/
+	background-image: url(img/bg.jpg);
+	font-family: Verdana, sans-serif;
+	display: block;
+	margin: auto 50px;
+	padding: auto;
+	color: white;
+}
+
+nav {
+	text-align: right;
+	margin: auto 15px;
+}
+
+li {
+	color: white;
+	display:inline-block;
+}
+
+a{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	margin: 5px;
+
+}
+
+a:hover{
+	color: #f8498f;
+}
+
+#ln {
+	color:#f8498f; 
+}
+
+.photo img{
+	border-radius: 100px;
+	
+}
+
+.cover {
+	text-align: center;
+	line-height: 0.5;
+}
+.cover h3{
+	color: white;
+	text-align: center;
+	line-height: 0.5;
+	
+
+}
+.cover h2{
+	color: white;
+	text-align: center;
+	
+}
+.social-icons {
+	text-align: center;
+	display: inline-block;
+	
+}
+.container{
+	color: white;
+	text-align: left;
+	margin: auto auto;
+	display: flex;
+	align-content: center;
+  	padding: 50px;
+}
+.jwd {
+	color: #f8498f;
+}
+.container h2 {
+	padding: 5px 5px;
+	margin: 15px 15px;
+	text-transform: uppercase;
+	color: #f8498f;
+}
+
+.social-icons:hover {
+	color: #f8498f;
+}
+
+h2:hover {
+	color: #f8498f;
+
+}
+.container p {
+	padding: 5px 5px;
+	margin: 15px 15px;
+}
+.grid-c {
+	background-color: #f8498f;
+}
+.formation {
+	margin: auto auto;
+	padding: 50px;
+	color: white;
+}
+
+
+hr {
+	color: #c6c6c6;
+}
+
+.Contact {
+	margin: auto auto;
+	padding: 50px;
+	grid-template-columns: auto auto auto;
+	display: grid;
+	text-align: center;
+}
+
+.lien{
+	color: #f8498f;
+}
+.contact {
+	padding: 50px;
+}
+
+.grid-b {
+	
+	background-color: rgba(248,73,143, 0.5); 
+}
+
+h2 {
+	text-align: left;
+	color: #f8498f;
+}
+
+.grid-d {
+	text-transform: uppercase;
+}
+
+footer{
+	color: white;
+	text-align: center;
+	background-color: #1d2125;
+	padding: 10px;
+}

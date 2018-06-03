@@ -1,0 +1,172 @@
+
+html, body {
+	margin: auto;
+	padding: auto;
+	font-family: 'Cambria', sans-serif;
+	background-color: #eeeeed;
+	width: auto; 
+
+}
+
+
+header {
+	text-transform: uppercase;
+	text-decoration: none;
+	background-color: #91c535;
+	padding: 1px 3px;
+	text-align: right;
+	margin: auto;
+	padding: 0 auto;
+	
+}
+
+#logo {
+	float: left;
+	margin: 10px;
+}
+
+.Menu ul {
+	align-items: center;
+	padding: 10px auto;
+}
+.Menu ul li{
+	display: inline-block;
+	margin: 15px;	
+	text-align: center;
+}
+
+li h3 {
+	text-align: center;
+	background-color: green;
+	border: 1px solid green;
+	padding: 10px;
+	color: white;
+}
+
+.menu li {
+	float: center;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+
+}
+
+a:hover{
+	color: #608917;
+}	
+	
+
+.header {
+	background-image: url(bike.jpg);
+	background-position: relative;
+	width: 93%;
+	height: 60vh;
+	text-align: right;
+	margin-top: 10px;
+	padding: 50px 44px;
+}
+
+.header h1  {
+	margin-top: 50px;
+	color: white;
+	font-size: 40px;
+	text-transform: uppercase;
+}
+
+.header p {
+	text-align: center;
+	
+}
+
+.Campaigns ul li {
+	display: inline-block;
+	margin: auto;
+	align-items: center;
+	padding: 10px auto;
+	margin: 30px;
+}
+
+.Apropos {
+	display: block;
+	text-align: left;
+	justify-content: center;
+	width: 50%;
+	margin: auto;
+	padding: 10px 20px;
+	color: #fff;
+	float: left;
+}
+
+
+
+figcaption {
+	color: #fff;
+}	
+
+.Apropos2 {
+      text-align: left;
+      padding: 10px 20px;
+      background-color: #2b3e58;
+
+}
+
+	
+#Video {
+	display: inline-block;
+	float: right;
+	position: right;
+
+}
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p {
+	text-align: center;
+}
+
+footer {
+	background-color: #91c535;
+	padding: 15px 15px;
+}
+
+blockquote {
+	padding: 12px 12px;
+	text-align: center;
+	background-color: #91c535;
+	
+}
+
+#Contact {
+	text-align: left;
+}
+
+address {
+	display: inline-block;
+}
+
+.description {
+	text-align: right;
+	display: block;
+	width: 50%;
+	margin: auto;
+	padding: 45px;
+	float: right;
+	position: relative;
+}
+
+article {
+	display: inline-block;
+}
+
+section.Apropos2 {
+	display: inline-block;
+}

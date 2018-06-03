@@ -1,0 +1,18 @@
+
+body {
+	margin: auto;
+	padding: auto;
+	display: block;
+	width: 800px;
+	height: 100%;
+
+
+}
+p {
+	font-family: Georgia;
+}
+
+h1 {
+	font-family: Georgia;
+	color: red;
+}
